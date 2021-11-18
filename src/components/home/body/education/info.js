@@ -9,6 +9,7 @@ function Info({ info }) {
       </div>
       <div className="info-right">
         <label className="info-title">{info.institute}</label>
+        <p className="info-faculty">{info.faculty}</p>
         <p className="info-period">{info.period}</p>
         <p className="info-gpa">GPA: {info.gpa}</p>
       </div>
