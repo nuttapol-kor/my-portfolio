@@ -117,6 +117,10 @@ export const SkillsData = [
           />
         ),
       },
+      {
+        name: "Express",
+        icon: <i class="devicon-express-original-wordmark colored"></i>,
+      },
     ],
   },
   {

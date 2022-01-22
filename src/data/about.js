@@ -3,7 +3,7 @@ export const AboutData = [
     institute: "Kasetsart University",
     faculty: "Software and Knowledge Engineering",
     period: "2019-Present",
-    gpa: "3.37",
+    gpa: "3.39",
     icon: "https://i.imgur.com/27bI6Go.png",
   },
   {

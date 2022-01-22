@@ -23,7 +23,7 @@ function Contact() {
             <label className="contact-top-title">Resume</label>
             <a
               className="contact-link"
-              href="https://drive.google.com/file/d/1r4FFnx1yP8TlzL_nrkYjG-520zMiZacg/view?usp=sharing"
+              href="https://drive.google.com/u/0/uc?id=14GL52zGsrX0lADLwaISfLvsfctgRoHBf&export=download"
               target="_blank"
               rel="noreferrer"
             >
