@@ -81,6 +81,10 @@ export const SkillsData = [
         name: "ReactJS",
         icon: <i class="devicon-react-original colored"></i>,
       },
+      {
+        name: "AngularJS",
+        icon: <i class="devicon-angularjs-plain colored"></i>,
+      },
     ],
   },
 
@@ -104,8 +108,8 @@ export const SkillsData = [
       },
 
       {
-        name: "Flask",
-        icon: <i class="devicon-flask-original colored"></i>,
+        name: ".Net Framework",
+        icon: <i class="devicon-dotnetcore-plain colored"></i>,
       },
       {
         name: "Ruby on Rails",
